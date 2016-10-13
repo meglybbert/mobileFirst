@@ -1,14 +1,10 @@
 /***** for a mobile viewport *****/
 body{
 	max-width: 100%;
-	margin-left: 3%;
-	margin-right: 3%;
 }
 
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
 }
 
 li {
@@ -20,14 +16,10 @@ li {
 
 img{
 	max-width: 100%;
-	margin-left: 3%;
-	margin-right: 3%;
 }
 
 p{
 	max-width: 100%;
-	margin-left: 3%;
-	margin-right: 3%;
 }
 
 
