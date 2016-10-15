@@ -7,6 +7,10 @@ ul {
     list-style-type: none;
 }
 
+a{
+	font-family: 'Permanent Marker', cursive;
+}
+
 li {
     display: inline;
     margin-left: 8%;
@@ -19,6 +23,7 @@ img{
 }
 
 p{
+	font-family: 'Muli', sans-serif;
 	max-width: 100%;
 }
 
